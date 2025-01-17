@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qGZw9DrKwFQ=",
+  "dgSpecHash": "N2n94NJYNJk=",
   "success": true,
-  "projectFilePath": "A:\\VSCode\\DotNet\\Sample Project 1\\Sample Project 1.csproj",
+  "projectFilePath": "A:\\VSCode\\DotNet\\Sample Project 1\\DotNetDependencies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonat\\.nuget\\packages\\humanizer\\2.7.9\\humanizer.2.7.9.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\humanizer.core\\2.7.9\\humanizer.core.2.7.9.nupkg.sha512",

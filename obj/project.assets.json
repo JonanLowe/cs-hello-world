@@ -1111,9 +1111,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\VSCode\\DotNet\\Sample Project 1\\Sample Project 1.csproj",
-      "projectName": "Sample Project 1",
-      "projectPath": "A:\\VSCode\\DotNet\\Sample Project 1\\Sample Project 1.csproj",
+      "projectUniqueName": "A:\\VSCode\\DotNet\\Sample Project 1\\DotNetDependencies.csproj",
+      "projectName": "DotNetDependencies",
+      "projectPath": "A:\\VSCode\\DotNet\\Sample Project 1\\DotNetDependencies.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
       "outputPath": "A:\\VSCode\\DotNet\\Sample Project 1\\obj\\",
       "projectStyle": "PackageReference",
