@@ -1,0 +1,14 @@
+A:\VSCode\DotNet\Sample Project 1\bin\Debug\net8.0\Sample Project 1.exe
+A:\VSCode\DotNet\Sample Project 1\bin\Debug\net8.0\Sample Project 1.deps.json
+A:\VSCode\DotNet\Sample Project 1\bin\Debug\net8.0\Sample Project 1.runtimeconfig.json
+A:\VSCode\DotNet\Sample Project 1\bin\Debug\net8.0\Sample Project 1.dll
+A:\VSCode\DotNet\Sample Project 1\bin\Debug\net8.0\Sample Project 1.pdb
+A:\VSCode\DotNet\Sample Project 1\obj\Debug\net8.0\Sample Project 1.GeneratedMSBuildEditorConfig.editorconfig
+A:\VSCode\DotNet\Sample Project 1\obj\Debug\net8.0\Sample Project 1.AssemblyInfoInputs.cache
+A:\VSCode\DotNet\Sample Project 1\obj\Debug\net8.0\Sample Project 1.AssemblyInfo.cs
+A:\VSCode\DotNet\Sample Project 1\obj\Debug\net8.0\Sample Project 1.csproj.CoreCompileInputs.cache
+A:\VSCode\DotNet\Sample Project 1\obj\Debug\net8.0\Sample Project 1.dll
+A:\VSCode\DotNet\Sample Project 1\obj\Debug\net8.0\refint\Sample Project 1.dll
+A:\VSCode\DotNet\Sample Project 1\obj\Debug\net8.0\Sample Project 1.pdb
+A:\VSCode\DotNet\Sample Project 1\obj\Debug\net8.0\Sample Project 1.genruntimeconfig.cache
+A:\VSCode\DotNet\Sample Project 1\obj\Debug\net8.0\ref\Sample Project 1.dll
